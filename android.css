@@ -81,8 +81,8 @@ nav{
 
 nav > a{
     color: white;
-    padding: 4px;
-    border-radius: 7px;
+    padding: 10px;
+    border-radius: 10px;
     text-decoration: none;
     transition-duration: .5s;
 }
